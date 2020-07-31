@@ -2,6 +2,7 @@
 
 ### Minimal Requirement
 * Python version 3.7
+* CUDA version 10.0 or newer
 * virtualvenv
 * pipenv (optional)
 
